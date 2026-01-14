@@ -1,0 +1,2 @@
+# first-program
+program pertama
